@@ -1,4 +1,4 @@
-# TP2DPBO2022
+# LATIHAN11DPBO2022
 
 Repository ini berisikan Latihan Praktikum 11 pada mata kuliah Desain Pemrograman Berorientasi Objek tahun 2022.
 
